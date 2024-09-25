@@ -24,7 +24,9 @@ Les plateformes CI modernes s'intégrent directement avec Git :
 
 - GitHub Actions : Se déclenche automatiquement à chaque commit ou pull request sur GitHub.
 - GitLab CI : Intégré directement dans GitLab, chaque dépôt dispose d'un pipeline CI associé.
-- Jenkins : Peut surveiller les dépôts Git et lancer des jobs de CI à chaque modification.### 7.3 Gestion des conflits
+- Jenkins : Peut surveiller les dépôts Git et lancer des jobs de CI à chaque modification.
+
+### 7.3 Gestion des conflits
 
 # Gestion des Conflits Git - Cheat Sheet
 
